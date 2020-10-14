@@ -50,8 +50,6 @@ public class ShowSpeed extends EasyGraphics {
 
 		// TODO - START
 		
-		throw new UnsupportedOperationException(TODO.method());
-	
 		// TODO - SLUTT
 	}
 }
